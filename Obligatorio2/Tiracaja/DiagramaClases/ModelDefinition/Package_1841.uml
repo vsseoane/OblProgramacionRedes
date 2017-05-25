@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="4facde84-27f9-49dd-8aa0-b43249cdfb01"
+  name="Client" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <suppliersInternal>
+    <dependency
+      Id="90f1aed4-f234-42a4-9591-cf7d85827bc7">
+      <packageMoniker
+        Id="e02f58b7-3ef8-4338-b56f-f64918ec7304"
+        LastKnownName="Protocol"
+        LastKnownLocation="Package2_1841.uml" />
+    </dependency>
+    <dependency
+      Id="2b570b58-b3ba-4b34-9af9-00baec33100b">
+      <packageMoniker
+        Id="1573911b-284e-401d-b4ad-e7c13f679f84"
+        LastKnownName="Repository"
+        LastKnownLocation="Package3_1841.uml" />
+    </dependency>
+  </suppliersInternal>
+</package>

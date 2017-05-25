@@ -1,0 +1,53 @@
+C:\Users\Ignacio\Desktop\ObligatorioFinal\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Ignacio\Desktop\ObligatorioFinal\Tiracaja\Client\bin\Debug\Client.exe.config
+C:\Users\Ignacio\Desktop\ObligatorioFinal\Tiracaja\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Ignacio\Desktop\ObligatorioFinal\Tiracaja\Client\bin\Debug\Client.exe
+C:\Users\Ignacio\Desktop\ObligatorioFinal\Tiracaja\Client\bin\Debug\Client.pdb
+C:\Users\Ignacio\Desktop\ObligatorioFinal\Tiracaja\Client\bin\Debug\Protocol.dll
+C:\Users\Ignacio\Desktop\ObligatorioFinal\Tiracaja\Client\bin\Debug\Protocol.pdb
+C:\Users\Ignacio\Desktop\ObligatorioFinal\Tiracaja\Client\obj\Debug\Client.exe
+C:\Users\Ignacio\Desktop\ObligatorioFinal\Tiracaja\Client\obj\Debug\Client.pdb
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\ObligatorioFinal\Tiracaja\Client\bin\Debug\Client.exe.config
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\ObligatorioFinal\Tiracaja\Client\obj\Debug\Client.exe
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\ObligatorioFinal\Tiracaja\Client\obj\Debug\Client.pdb
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\ObligatorioFinal\Tiracaja\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\ObligatorioFinal\Tiracaja\Client\bin\Debug\Client.exe
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\ObligatorioFinal\Tiracaja\Client\bin\Debug\Client.pdb
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\ObligatorioFinal\Tiracaja\Client\bin\Debug\Protocol.dll
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\ObligatorioFinal\Tiracaja\Client\bin\Debug\Protocol.pdb
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\ObligatorioFinal\Tiracaja\Client\bin\Debug\Entity.dll
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\ObligatorioFinal\Tiracaja\Client\bin\Debug\Entity.pdb
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\ObligatorioFinal\Tiracaja\Client\bin\Debug\App.config
+C:\Users\Ignacio\Desktop\ObligatorioFinal v8\ObligatorioFinal\Tiracaja\Client\bin\Debug\Client.exe.config
+C:\Users\Ignacio\Desktop\ObligatorioFinal v8\ObligatorioFinal\Tiracaja\Client\obj\Debug\Client.exe
+C:\Users\Ignacio\Desktop\ObligatorioFinal v8\ObligatorioFinal\Tiracaja\Client\obj\Debug\Client.pdb
+C:\Users\Ignacio\Desktop\ObligatorioFinal v8\ObligatorioFinal\Tiracaja\Client\bin\Debug\App.config
+C:\Users\Ignacio\Desktop\ObligatorioFinal v8\ObligatorioFinal\Tiracaja\Client\bin\Debug\Client.exe
+C:\Users\Ignacio\Desktop\ObligatorioFinal v8\ObligatorioFinal\Tiracaja\Client\bin\Debug\Client.pdb
+C:\Users\Ignacio\Desktop\ObligatorioFinal v8\ObligatorioFinal\Tiracaja\Client\bin\Debug\Entity.dll
+C:\Users\Ignacio\Desktop\ObligatorioFinal v8\ObligatorioFinal\Tiracaja\Client\bin\Debug\Protocol.dll
+C:\Users\Ignacio\Desktop\ObligatorioFinal v8\ObligatorioFinal\Tiracaja\Client\bin\Debug\Entity.pdb
+C:\Users\Ignacio\Desktop\ObligatorioFinal v8\ObligatorioFinal\Tiracaja\Client\bin\Debug\Protocol.pdb
+C:\Users\Ignacio\Desktop\ObligatorioFinal v8\ObligatorioFinal\Tiracaja\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega1\Obligatorio1_177753_172103\Tiracaja\Client\bin\Debug\Client.exe.config
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega1\Obligatorio1_177753_172103\Tiracaja\Client\obj\Debug\Client.exe
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega1\Obligatorio1_177753_172103\Tiracaja\Client\obj\Debug\Client.pdb
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega1\Obligatorio1_177753_172103\Tiracaja\Client\bin\Debug\App.config
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega1\Obligatorio1_177753_172103\Tiracaja\Client\bin\Debug\Client.exe
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega1\Obligatorio1_177753_172103\Tiracaja\Client\bin\Debug\Client.pdb
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega1\Obligatorio1_177753_172103\Tiracaja\Client\bin\Debug\Entity.dll
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega1\Obligatorio1_177753_172103\Tiracaja\Client\bin\Debug\Protocol.dll
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega1\Obligatorio1_177753_172103\Tiracaja\Client\bin\Debug\Entity.pdb
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega1\Obligatorio1_177753_172103\Tiracaja\Client\bin\Debug\Protocol.pdb
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega1\Obligatorio1_177753_172103\Tiracaja\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega2\Obligatorio2_177753_172103\Tiracaja\Client\bin\Debug\App.config
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega2\Obligatorio2_177753_172103\Tiracaja\Client\bin\Debug\Client.exe.config
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega2\Obligatorio2_177753_172103\Tiracaja\Client\bin\Debug\Client.exe
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega2\Obligatorio2_177753_172103\Tiracaja\Client\bin\Debug\Client.pdb
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega2\Obligatorio2_177753_172103\Tiracaja\Client\bin\Debug\Entity.dll
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega2\Obligatorio2_177753_172103\Tiracaja\Client\bin\Debug\Protocol.dll
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega2\Obligatorio2_177753_172103\Tiracaja\Client\bin\Debug\Entity.pdb
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega2\Obligatorio2_177753_172103\Tiracaja\Client\bin\Debug\Protocol.pdb
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega2\Obligatorio2_177753_172103\Tiracaja\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega2\Obligatorio2_177753_172103\Tiracaja\Client\obj\Debug\Client.exe
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega2\Obligatorio2_177753_172103\Tiracaja\Client\obj\Debug\Client.pdb

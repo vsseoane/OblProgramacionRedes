@@ -1,0 +1,14 @@
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\ObligatorioFinal\Tiracaja\Entity\bin\Debug\Entity.dll
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\ObligatorioFinal\Tiracaja\Entity\bin\Debug\Entity.pdb
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\ObligatorioFinal\Tiracaja\Entity\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\ObligatorioFinal\Tiracaja\Entity\obj\Debug\Entity.dll
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\ObligatorioFinal\Tiracaja\Entity\obj\Debug\Entity.pdb
+C:\Users\Ignacio\Desktop\ObligatorioFinal v8\ObligatorioFinal\Tiracaja\Entity\bin\Debug\Entity.dll
+C:\Users\Ignacio\Desktop\ObligatorioFinal v8\ObligatorioFinal\Tiracaja\Entity\bin\Debug\Entity.pdb
+C:\Users\Ignacio\Desktop\ObligatorioFinal v8\ObligatorioFinal\Tiracaja\Entity\obj\Debug\Entity.dll
+C:\Users\Ignacio\Desktop\ObligatorioFinal v8\ObligatorioFinal\Tiracaja\Entity\obj\Debug\Entity.pdb
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega1\Obligatorio1_177753_172103\Tiracaja\Entity\bin\Debug\Entity.dll
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega1\Obligatorio1_177753_172103\Tiracaja\Entity\bin\Debug\Entity.pdb
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega1\Obligatorio1_177753_172103\Tiracaja\Entity\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega1\Obligatorio1_177753_172103\Tiracaja\Entity\obj\Debug\Entity.dll
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega1\Obligatorio1_177753_172103\Tiracaja\Entity\obj\Debug\Entity.pdb

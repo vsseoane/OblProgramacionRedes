@@ -1,0 +1,4 @@
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega2\Obligatorio2_177753_172103\Tiracaja\ServerRemotingServices\bin\Debug\ServerRemotingServices.dll
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega2\Obligatorio2_177753_172103\Tiracaja\ServerRemotingServices\bin\Debug\ServerRemotingServices.pdb
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega2\Obligatorio2_177753_172103\Tiracaja\ServerRemotingServices\obj\Debug\ServerRemotingServices.dll
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega2\Obligatorio2_177753_172103\Tiracaja\ServerRemotingServices\obj\Debug\ServerRemotingServices.pdb

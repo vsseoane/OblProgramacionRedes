@@ -1,0 +1,26 @@
+C:\Users\Ignacio\Desktop\ObligatorioFinal\Tiracaja\Protocol\bin\Debug\Protocol.dll
+C:\Users\Ignacio\Desktop\ObligatorioFinal\Tiracaja\Protocol\bin\Debug\Protocol.pdb
+C:\Users\Ignacio\Desktop\ObligatorioFinal\Tiracaja\Protocol\obj\Debug\Protocol.csprojResolveAssemblyReference.cache
+C:\Users\Ignacio\Desktop\ObligatorioFinal\Tiracaja\Protocol\obj\Debug\Protocol.dll
+C:\Users\Ignacio\Desktop\ObligatorioFinal\Tiracaja\Protocol\obj\Debug\Protocol.pdb
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\ObligatorioFinal\Tiracaja\Protocol\obj\Debug\Protocol.csprojResolveAssemblyReference.cache
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\ObligatorioFinal\Tiracaja\Protocol\obj\Debug\Protocol.dll
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\ObligatorioFinal\Tiracaja\Protocol\obj\Debug\Protocol.pdb
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\ObligatorioFinal\Tiracaja\Protocol\bin\Debug\Protocol.dll
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\ObligatorioFinal\Tiracaja\Protocol\bin\Debug\Protocol.pdb
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\ObligatorioFinal\Tiracaja\Protocol\bin\Debug\Entity.dll
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\ObligatorioFinal\Tiracaja\Protocol\bin\Debug\Entity.pdb
+C:\Users\Ignacio\Desktop\ObligatorioFinal v8\ObligatorioFinal\Tiracaja\Protocol\bin\Debug\Protocol.dll
+C:\Users\Ignacio\Desktop\ObligatorioFinal v8\ObligatorioFinal\Tiracaja\Protocol\bin\Debug\Protocol.pdb
+C:\Users\Ignacio\Desktop\ObligatorioFinal v8\ObligatorioFinal\Tiracaja\Protocol\bin\Debug\Entity.dll
+C:\Users\Ignacio\Desktop\ObligatorioFinal v8\ObligatorioFinal\Tiracaja\Protocol\bin\Debug\Entity.pdb
+C:\Users\Ignacio\Desktop\ObligatorioFinal v8\ObligatorioFinal\Tiracaja\Protocol\obj\Debug\Protocol.csprojResolveAssemblyReference.cache
+C:\Users\Ignacio\Desktop\ObligatorioFinal v8\ObligatorioFinal\Tiracaja\Protocol\obj\Debug\Protocol.dll
+C:\Users\Ignacio\Desktop\ObligatorioFinal v8\ObligatorioFinal\Tiracaja\Protocol\obj\Debug\Protocol.pdb
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega1\Obligatorio1_177753_172103\Tiracaja\Protocol\bin\Debug\Protocol.dll
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega1\Obligatorio1_177753_172103\Tiracaja\Protocol\bin\Debug\Protocol.pdb
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega1\Obligatorio1_177753_172103\Tiracaja\Protocol\bin\Debug\Entity.dll
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega1\Obligatorio1_177753_172103\Tiracaja\Protocol\bin\Debug\Entity.pdb
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega1\Obligatorio1_177753_172103\Tiracaja\Protocol\obj\Debug\Protocol.csprojResolveAssemblyReference.cache
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega1\Obligatorio1_177753_172103\Tiracaja\Protocol\obj\Debug\Protocol.dll
+C:\Users\fede2\Desktop\ORT\PROG DE REDES\Obligatorio\Obligatorio 1 Nacho y Vero\Entrega1\Obligatorio1_177753_172103\Tiracaja\Protocol\obj\Debug\Protocol.pdb

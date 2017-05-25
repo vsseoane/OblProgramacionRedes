@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" dslVersion="1.0.0.0" Id="494ddc6b-3986-452b-b488-dc25345d4090" name="UMLClassDiagram1" linkedPackageId="3256d784-53cd-4bf2-a592-5464983a9add" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <profileInstances>
+    <packageHasProfileInstances Id="d6e1273f-5c4a-4d71-83de-9661b8245977">
+      <profileInstance Id="3a20fbc1-743f-4e1f-93e2-5dea03906c7a" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="311aa583-2e0f-480d-9dbd-6a76eb1ea2ce">
+      <profileInstance Id="ad9afa3a-2985-4f61-8015-85b4ad4b5065" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <logicalClassDesignerModelHasPackages>
+      <package Id="f613e914-d9b8-4889-92a4-fa857b6a17c1" name="Client">
+        <elementDefinition Id="4facde84-27f9-49dd-8aa0-b43249cdfb01" />
+        <suppliersInternal>
+          <dependency Id="53db526b-803d-4969-967b-36edfdab1cba">
+            <packageMoniker Id="4ca0d763-0fc8-4908-91f9-3ba42e27b97b" LastKnownName="Protocol" />
+            <elementDefinition Id="90f1aed4-f234-42a4-9591-cf7d85827bc7" />
+          </dependency>
+          <dependency Id="98f86b9e-3f32-48b8-a005-a07d87a9ca52">
+            <packageMoniker Id="ac4d1235-3736-4528-9e42-d038058f0c5f" LastKnownName="Repository" />
+            <elementDefinition Id="2b570b58-b3ba-4b34-9af9-00baec33100b" />
+          </dependency>
+        </suppliersInternal>
+      </package>
+    </logicalClassDesignerModelHasPackages>
+    <logicalClassDesignerModelHasPackages>
+      <package Id="aafea81a-0889-4a06-83a2-9a89bd09cd59" name="Server">
+        <elementDefinition Id="58b5cdfd-c286-40bb-944c-9191a412f252" />
+        <suppliersInternal>
+          <dependency Id="96a3eae5-b5d2-4789-8508-4f53e6142a93">
+            <packageMoniker Id="ac4d1235-3736-4528-9e42-d038058f0c5f" LastKnownName="Repository" />
+            <elementDefinition Id="8bf8c13f-7784-4372-8af3-b4fae108c05e" />
+          </dependency>
+          <dependency Id="bdba09cb-3005-4fc0-8111-47cb52269ca6">
+            <packageMoniker Id="4ca0d763-0fc8-4908-91f9-3ba42e27b97b" LastKnownName="Protocol" />
+            <elementDefinition Id="26fa4ead-2a49-4532-bd4c-528ede320b8f" />
+          </dependency>
+        </suppliersInternal>
+      </package>
+    </logicalClassDesignerModelHasPackages>
+    <logicalClassDesignerModelHasPackages>
+      <package Id="4ca0d763-0fc8-4908-91f9-3ba42e27b97b" name="Protocol">
+        <elementDefinition Id="e02f58b7-3ef8-4338-b56f-f64918ec7304" />
+        <suppliersInternal>
+          <dependency Id="2b391f81-53a8-44b7-a521-bab22da36a52">
+            <packageMoniker Id="ac4d1235-3736-4528-9e42-d038058f0c5f" LastKnownName="Repository" />
+            <elementDefinition Id="179df842-0f67-40ec-846c-e449bfaafb69" />
+          </dependency>
+        </suppliersInternal>
+      </package>
+    </logicalClassDesignerModelHasPackages>
+    <logicalClassDesignerModelHasPackages>
+      <package Id="ac4d1235-3736-4528-9e42-d038058f0c5f" name="Repository">
+        <elementDefinition Id="1573911b-284e-401d-b4ad-e7c13f679f84" />
+      </package>
+    </logicalClassDesignerModelHasPackages>
+  </packagedElements>
+  <package Id="3256d784-53cd-4bf2-a592-5464983a9add" name="DiagramaClases">
+    <elementDefinition Id="d4ae8f5f-f12d-412f-8435-84d7da837466" />
+  </package>
+</logicalClassDesignerModel>
